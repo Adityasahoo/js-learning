@@ -1,0 +1,1 @@
+console.log("Learning js day 1:05-10-2024")
